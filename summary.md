@@ -22,3 +22,5 @@
 -Membuat branch baru yang berfungsi untuk melakukan develop -> nama yang digunakan ada developer
 -Membuat branch ketiga  kemudian tambahkan beberapa fitur -> kemudian merge dengan branch list pada branch developer dengan menggunakan sintaks git merge (nama branch) -> gunakan sintaks git commit pada branch developer
 -Membuat branch keempat  kemudian tambahkan beberapa fitur -> kemudian merge dengan branch list pada branch developer dengan menggunakan sintaks git merge (nama branch) -> gunakan sintaks git commit pada branch developer
+
+![insight_network](https://user-images.githubusercontent.com/96731433/155083628-97b0bfd8-ff3e-4a6f-ac59-9be2497686c6.png)
